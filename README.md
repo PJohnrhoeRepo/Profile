@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [PfSense Firewall Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [PfSense Firewall Home Lab](https://github.com/PJohnrhoeRepo/PfSenseLab)
   
 
 
