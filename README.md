@@ -1,9 +1,9 @@
-<h1>Hi, I'm Prince!</h1>
+<h1>Hi, I'm Prince Johnrhoe Nocos!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [PfSense Firewall Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Basic Calculator](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 
 
 
